@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
   <h1>Olá, eu sou a Nikole! 👋</h1>
