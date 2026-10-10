@@ -17,7 +17,7 @@
 
 ### 🛠️ Tecnologias e ferramentas
 
-### 💻 Tecnologias que conheço
+<h3>💻 Tecnologias que conheço</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 </div>
 
-### 🧰 Ferramentas
+<h3>🧰 Ferramentas</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
