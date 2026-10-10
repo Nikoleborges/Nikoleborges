@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ### 👩‍💻 Sobre mim
 
 - 🎓 Graduanda em Ciência da Computação na UNIFAL-MG.
@@ -47,7 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
 
-```html
 ### 📬 Contatos
 
 <div align="center">
