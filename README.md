@@ -45,23 +45,6 @@
 - 🧼 **Saboaria das Marias** — desenvolvimento de um site para uma marca de sabonetes artesanais.
 - 💻 **Projetos acadêmicos** — exercícios e aplicações desenvolvidos durante a graduação.
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Nikoleborges&show_icons=true&theme=merko&hide_border=true"
-    height="165"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoleborges&layout=compact&theme=merko&hide_border=true"
-    height="165"
-    alt="Linguagens mais utilizadas"
-  />
-</div>
-
----
-
 <div align="center">
   <i>Aprendendo, construindo e evoluindo um projeto de cada vez. 🌱</i>
 </div>
