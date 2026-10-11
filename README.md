@@ -17,8 +17,6 @@
 
 ### 🛠️ Tecnologias e ferramentas
 
-<h3>💻 Tecnologias que conheço</h3>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
@@ -27,14 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-</div>
-
-### 🌱 Atualmente aprendendo
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 </div>
 
 <h3>🧰 Ferramentas</h3>
